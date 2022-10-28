@@ -11,6 +11,7 @@ namespace National.Models
     public string Type { get; set;}
     [Required]
     public int Size { get; set; }
+    public int ParkId { get; set; }
     [JsonIgnore]
     public virtual Park Park { get; set;}
   }
