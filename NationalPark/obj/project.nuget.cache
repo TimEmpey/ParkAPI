@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "UXqEfGqYYTllIgd5Sw1E/VOeykkmvUj42mVDF2kdRKNrKJ7yF2D2m2X1kjIfW3BkczT9eqYwYM5zdMWwKpfVaA==",
+  "dgSpecHash": "rXgm2HwgQJdx+Ny1nj1leLJ5l/p8kfZ88zzilKIPVIc2M5boJWElbOoT55DWtDmg/vVxRcxHGsY8ZELEv2TGJQ==",
   "success": true,
   "projectFilePath": "/Users/tim/Desktop/Epicodus/projects/Friday Projects/park-api/NationalPark/National.csproj",
   "expectedPackageFiles": [
+    "/Users/tim/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/tim/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/tim/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "/Users/tim/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "/Users/tim/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.0/microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "/Users/tim/.nuget/packages/microsoft.entityframeworkcore.design/5.0.0/microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "/Users/tim/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.0/microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "/Users/tim/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/tim/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
