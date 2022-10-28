@@ -1,4 +1,4 @@
-obj/
-bin/
-*/appsettings.json
-.vscode/
+/obj/
+/bin/
+/appsettings.json
+.vscode
