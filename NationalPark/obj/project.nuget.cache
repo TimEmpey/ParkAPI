@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RETPePTVfk19MyMSbgY5HuCH/NsmVB2dE01RrqsiutcUX3nBzKZlJAEKjDpKOrG7oqIH/QCAwkZW1U1tKF+3Ag==",
+  "dgSpecHash": "UXqEfGqYYTllIgd5Sw1E/VOeykkmvUj42mVDF2kdRKNrKJ7yF2D2m2X1kjIfW3BkczT9eqYwYM5zdMWwKpfVaA==",
   "success": true,
-  "projectFilePath": "/Users/tim/Desktop/Epicodus/projects/Friday Projects/park-api/National.csproj",
+  "projectFilePath": "/Users/tim/Desktop/Epicodus/projects/Friday Projects/park-api/NationalPark/National.csproj",
   "expectedPackageFiles": [
     "/Users/tim/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "/Users/tim/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
