@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZ8slO7LODUlzO6x1SEELYyPADJvghyhg2bS+KtVr5gnR/yIUMKPOGgUHx/KsFpzhhHr/uRqj7fyjBxBI2VPUQ==",
+  "success": true,
+  "projectFilePath": "/Users/tim/Desktop/Epicodus/projects/Friday Projects/park-api/park-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/tim/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/tim/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/tim/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/tim/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/tim/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/tim/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
