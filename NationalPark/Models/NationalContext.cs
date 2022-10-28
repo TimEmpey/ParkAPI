@@ -25,12 +25,12 @@ namespace National.Models{
                 new Activity { ActivityId = 3, Name = "Tour", Type = "Outdoors", Size = 30, ParkId = 2},
                 new Activity { ActivityId = 5, Name = "Hiking", Type = "Outdoors", Size = 10, ParkId = 3},
                 new Activity { ActivityId = 6, Name = "Camping", Type = "Outdoors", Size = 6, ParkId = 3},
-                new Activity { ActivityId = 7, Name = "Hiking", Type = "Outdoors", Size = 10, ParkId = 4},
-                new Activity { ActivityId = 8, Name = "Hiking", Type = "Outdoors", Size = 10, ParkId = 4},
-                new Activity { ActivityId = 9, Name = "Hiking", Type = "Outdoors", Size = 10, ParkId = 5},
-                new Activity { ActivityId = 10, Name = "Hiking", Type = "Outdoors", Size = 10, ParkId = 5},
-                new Activity { ActivityId = 11, Name = "Hiking", Type = "Outdoors", Size = 10, ParkId = 6},
-                new Activity { ActivityId = 12, Name = "Hiking", Type = "Outdoors", Size = 10, ParkId = 6}
+                new Activity { ActivityId = 7, Name = "Kayaking", Type = "Outdoors", Size = 2, ParkId = 4},
+                new Activity { ActivityId = 8, Name = "Food", Type = "Indoors", Size = 5, ParkId = 4},
+                new Activity { ActivityId = 9, Name = "Climbing", Type = "Outdoors", Size = 3, ParkId = 5},
+                new Activity { ActivityId = 10, Name = "Camping", Type = "Outdoors", Size = 6, ParkId = 5},
+                new Activity { ActivityId = 11, Name = "Kayaking", Type = "Outdoors", Size = 2, ParkId = 6},
+                new Activity { ActivityId = 12, Name = "Food", Type = "Indoors", Size = 5, ParkId = 6}
             );
         }
         public DbSet<Park> Parks { get; set; }
