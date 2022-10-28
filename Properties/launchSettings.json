@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "park_api": {
+    "Park": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
