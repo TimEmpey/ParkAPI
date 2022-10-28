@@ -79,7 +79,7 @@ You will see the CRUD options for API. These work with the API in live time to c
 
 ### Swagger Interface
 
-# GET Method
+#### GET Method
 
 <br> 
 
@@ -95,7 +95,7 @@ There should now be a view of all the current information the API holds
 
 <br> 
 
-# POST Method
+#### POST Method
 
 <br> 
 
