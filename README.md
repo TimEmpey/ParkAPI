@@ -87,7 +87,7 @@ Select the GET method for parks, the route should be '/api/parks'
 
 <br> 
 
-To initialize the API you need to press 'Try it out'
+To initialize the API you need to press 'Try it out' followed by 'Execute'
 
 <br> 
 
