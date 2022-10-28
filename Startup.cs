@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace Park
+namespace park_api
 {
     public class Startup
     {
@@ -30,7 +30,7 @@ namespace Park
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Park", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "park_api", Version = "v1" });
             });
         }
 
@@ -41,7 +41,7 @@ namespace Park
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Park v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "park_api v1"));
             }
 
             app.UseHttpsRedirection();

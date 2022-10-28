@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Park</RootNamespace>
+    <RootNamespace>park_api</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
